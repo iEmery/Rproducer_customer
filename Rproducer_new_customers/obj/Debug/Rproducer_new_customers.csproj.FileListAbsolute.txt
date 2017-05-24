@@ -1,0 +1,15 @@
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Rproducer_new_customers.exe.config
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Rproducer_new_customers.exe
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Rproducer_new_customers.pdb
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Bukimedia.PrestaSharp.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\RestSharp.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Bukimedia.PrestaSharp.pdb
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Bukimedia.PrestaSharp.dll.config
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\RestSharp.xml
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\obj\Debug\Rproducer_new_customers.csprojResolveAssemblyReference.cache
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\obj\Debug\Rproducer_new_customers.exe
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\obj\Debug\Rproducer_new_customers.pdb
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Newtonsoft.Json.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\RabbitMQ.Client.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\Newtonsoft.Json.xml
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rproducer_new_customers\Rproducer_new_customers\bin\Debug\RabbitMQ.Client.xml
